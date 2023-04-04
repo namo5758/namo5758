@@ -4,4 +4,4 @@
 <p align="left">
   <a><img></a>
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namo5758&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namo5758&theme=radical)
