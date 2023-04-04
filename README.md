@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kittipon Thanee
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kittipon Thanee. You can call me namo
 =======================================================================================================================================
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namo5758&theme=radical)
 
-I'm 15 years old, I'm Students at Pakkred Secondary School
+I'm 15 years old, I'm Student at Pakkred Secondary School
 ------------
 
 *   🌍  I'm based in Thailand
