@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 
-<center>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namo5758&theme=radical)</center>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namo5758&theme=radical)
 
 I'm 15 years old, I'm Students at Pakkred Secondary School
 ------------
