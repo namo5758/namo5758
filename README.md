@@ -8,7 +8,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 *   🌍  I'm based in Thailand
 *   ✉️  You can contact me at [kittiponpon760@gmail.com](mailto:kittiponpon760@gmail.com)
-*   🧠  I'm learning React.js 
 
 ## Skills
 
